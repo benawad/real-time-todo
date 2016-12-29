@@ -1,0 +1,4 @@
+.content.complete {
+    text-decoration: line-through;
+    color: gray;
+}
