@@ -1,3 +1,11 @@
-# My React template
+# A Real-time todo list
 
-Has all the boilerplate filled out for react + react-router + redux + redux-saga + semantic-ui
+![screenshot of the application](/screenshot.png)
+
+## Built with
+
+React
+
+Redux
+
+Feathersjs
