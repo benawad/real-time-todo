@@ -5,7 +5,5 @@
 ## Built with
 
 React
-
 Redux
-
 Feathersjs
