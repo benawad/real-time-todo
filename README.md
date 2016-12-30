@@ -4,6 +4,6 @@
 
 ## Built with
 
-React
-Redux
-Feathersjs
+* React
+* Redux
+* Feathersjs
